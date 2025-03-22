@@ -1,6 +1,16 @@
 /**
  * Set up and control an elementary cellular automaton.
  * 
+ * Lab 7 Part 3 Questions
+ * 
+ * 25. Yes, the same pattern emerges
+ * 
+ * 26. 8, int is mainly used for an index to fill specific elements of the 
+ * array at the specified index. It's most likely used to assign null/0 to 
+ * each element of the array to reset the image/placement.
+ * 
+ * 27. Yes different patterns emerge, yes they are deterministic.
+ * 
  * @author David J. Barnes and Michael Kölling
  * @version  2016.02.29
  */
